@@ -25,7 +25,7 @@
 
 | Teoría | Contenido                                                           |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Práctica 1 | [1-Chinook](./Practica/1-Chinook/Intro_SQL.pdf)|
+| Práctica 1 | [1-Chinook](./Practica/1-Chinook/chinook.pdf)|
 | Práctica 2  | [2-Diseño_modelo](./Practica/2-Diseño_modelo/EJERCICIO%20DISEÑO%20BASES%20DE%20DATOS.pdf)|
 | Práctica 3  | [3-Murder_game](./Practica/3-Murder_game/Ejercicio%20SQL%20Murder.pdf)|
 | Práctica 4 | [4-Proyecto](./Practica/4-Proyecto/Proyecto_BBDD.md)|
