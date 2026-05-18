@@ -18,7 +18,7 @@
 | 04 | [Queries Avanzadas](./Teoria/ejemplos/AdvancedQueries.md)|
 | 05 | [Joins](./Teoria/ejemplos/Joins.md)|
 | 06 | [sql-cheat-sheet](./Teoria/ejemplos/cheatsheets/sql-cheat-sheet.pdf)|
-| 07 | [sql-cheat-sheet](./Teoria/ejemplos/cheatsheets/sql-cheat-sheet.pdf)|
+| 07 | [SQL_Complete](./Teoria/ejemplos/cheatsheets/SQL_Complete.pdf)|
 
 
 ## PRÁCTICAS
